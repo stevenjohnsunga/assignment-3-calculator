@@ -1,0 +1,30 @@
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\user\Desktop\Assignment-2-Calculator-master\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\user\Desktop\Assignment-2-Calculator-master\Calculator\bin\Debug\Calculator.exe
+C:\Users\user\Desktop\Assignment-2-Calculator-master\Calculator\bin\Debug\Calculator.pdb
+C:\Users\user\Desktop\Assignment-2-Calculator-master\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Assignment-2-Calculator-master\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\user\Desktop\Assignment-2-Calculator-master\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\user\Desktop\Assignment-2-Calculator-master\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Assignment-2-Calculator-master\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Assignment-2-Calculator-master\Calculator\obj\Debug\Calculator.exe
+C:\Users\user\Desktop\Assignment-2-Calculator-master\Calculator\obj\Debug\Calculator.pdb
+C:\Users\user\Desktop\Assignment-3-Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\user\Desktop\Assignment-3-Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\user\Desktop\Assignment-3-Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\user\Desktop\Assignment-3-Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Assignment-3-Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\user\Desktop\Assignment-3-Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\user\Desktop\Assignment-3-Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Assignment-3-Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Assignment-3-Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\user\Desktop\Assignment-3-Calculator\Calculator\obj\Debug\Calculator.pdb
